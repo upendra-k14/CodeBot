@@ -74,9 +74,10 @@ See contributing guidelines [here](CONTRIBUTING.md).
 
 - [ ] All Python Errors → Human-Readable Errors
 - [ ] Refine Curriculum / Database Content
+- [ ] Make Bot Instructions for Exercises Friendlier
 - [ ] Improve Existing Bot Replies
 - [ ] Add More Variation in Bot Replies
-- [ ] Make Bot Instructions for Exercises Friendlier
+- [ ] Implement Simple Context Detection in Bot Conversation
 - [ ] Improve In-line Code Styling for Instructions & Example Code
 - [x] ~~Clean Up `codeChecker.js`~~
 - [x] ~~Clean Up Front-End Code~~
